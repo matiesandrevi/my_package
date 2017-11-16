@@ -1,5 +1,6 @@
 # my_package
 exercise 3.1. ROBOTICS INTEGRATION Session 3. ROS Tools
+
 what are the arguments of usb_cam-test.launch?
 
     <param name="video_device" value="/dev/video0" />   dispositiu de vídeo i el seu valor inicial (0)
